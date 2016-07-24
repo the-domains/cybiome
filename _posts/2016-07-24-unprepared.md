@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-24T23:32:03.503Z'
+datePublished: '2016-07-24T23:37:28.898Z'
 sourcePath: _posts/2016-07-24-unprepared.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8a8d9f5-d6bb-421e-81b8-a05494df34a3.jpg
 author: []
 via: {}
-dateModified: '2016-07-24T23:32:02.944Z'
+dateModified: '2016-07-24T23:37:28.504Z'
 title: un/prepared
 publisher: {}
 description: >-
@@ -14,10 +12,9 @@ description: >-
   nor for the information age; we were not ready for the collapse of enormous
   empires, nor the emergence of nations. And yet, for the most part, we cannot
   imagine going back. Human beings persevere, and evolve, too.
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: true
+url: unprepared/index.html
 _type: MediaObject
 
 ---
