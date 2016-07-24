@@ -1,4 +1,3 @@
-layout_spectrum: 0.2800719039514661
 typography_spectrum: 0.5846330542117357
 color:
   brandStrength: 0.8702040133066475
@@ -11,5 +10,11 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.2800719039514661
 name: cybiome
+navigation:
+  - id: 7e44c44a-7b6d-4090-8c3c-429c0e6e8e07
+    url: 2016-07-24-unprepared.html
+    name: un/prepared
+    type: content
 title: We're not ready. But we never have been.
