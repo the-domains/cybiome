@@ -17,4 +17,8 @@ navigation:
     url: 2016-07-24-unprepared.html
     name: un/prepared
     type: content
+  - id: www.causeit.org
+    url: www.causeit.org
+    name: causeit
+    type: external
 title: We're not ready. But we never have been.
