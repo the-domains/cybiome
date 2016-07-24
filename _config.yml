@@ -1,0 +1,14 @@
+layout_spectrum: 0.2800719039514661
+typography_spectrum: 0.5846330542117357
+color:
+  brandStrength: 0.8702040133066475
+  lightness: 0.7493116213008761
+  saturation: 0.08406391553580761
+  rhythmicContrast: 0.8200125233270228
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: cybiome
