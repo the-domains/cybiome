@@ -1,8 +1,19 @@
-typography_spectrum: 0.5286474544554949
+title: We're not ready. But we never have been.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.40663122199475765
-  lightness: 0.4357153815217316
   saturation: 0.04829743201844394
+  brandStrength: 0.4066312219947577
   rhythmicContrast: 0.8619211562909186
   brandColors:
     - '#004358'
@@ -10,8 +21,8 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-layout_spectrum: 0.2800719039514661
-name: cybiome
+  lightness: 0.4357153815217316
+typography_spectrum: 0.4020311
 navigation:
   - id: 7e44c44a-7b6d-4090-8c3c-429c0e6e8e07
     url: 2016-07-24-unprepared.html
@@ -21,4 +32,5 @@ navigation:
     url: www.causeit.org
     name: causeit
     type: external
-title: We're not ready. But we never have been.
+layout_spectrum: 1
+name: cybiome
